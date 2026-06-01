@@ -46,6 +46,6 @@ python-hr-attrition-eda/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
-Created by Joyce Lee How Yee
+```
+Created by Joyce Lee How Yee  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/joyceleehowyee/)
