@@ -11,6 +11,14 @@ This project explores employee attrition patterns using the IBM HR Analytics Att
 
 The analysis was completed in Python using a Jupyter Notebook, with a focus on People Analytics and HR Analytics insights.
 
+## Notebook
+
+The full analysis is available in the Jupyter Notebook:
+
+[View notebook](notebooks/hr_attrition_eda.ipynb)
+
+If GitHub does not render the notebook preview, download the notebook or open it in VS Code/Jupyter.
+
 ## Business Questions
 
 - What is the overall employee attrition rate?
