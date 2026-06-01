@@ -13,11 +13,12 @@ The analysis was completed in Python using a Jupyter Notebook, with a focus on P
 
 ## Notebook
 
-The full analysis is available in the Jupyter Notebook:
+The full analysis is available in the Jupyter Notebook.
 
-[View notebook](notebooks/hr_attrition_eda.ipynb)
+- [Open notebook in NBViewer](https://nbviewer.org/github/joyceleehy/python-hr-attrition-eda/blob/main/notebooks/hr_attrition_eda.ipynb)
+- [Download notebook file](https://github.com/joyceleehy/python-hr-attrition-eda/raw/main/notebooks/hr_attrition_eda.ipynb)
 
-If GitHub does not render the notebook preview, download the notebook or open it in VS Code/Jupyter.
+Note: GitHub sometimes has issues rendering notebook previews. If the GitHub preview does not load, use NBViewer or download the notebook file.
 
 ## Business Questions
 
